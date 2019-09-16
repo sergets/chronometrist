@@ -1,4 +1,4 @@
-const Chronometrist = require('./chronometrist');
+const Chronometrist = require('./index');
 
 require('chai').should();
 
