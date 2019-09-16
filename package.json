@@ -1,6 +1,6 @@
 {
   "name": "chronometrist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "А console timekeeping tool for Express server requests",
   "main": "index.js",
   "scripts": {
