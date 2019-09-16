@@ -1,0 +1,33 @@
+{
+  "name": "chronometrist",
+  "version": "0.1.0",
+  "description": "А console timekeeping tool for Express server requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergets/chronometrist.git"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "requests",
+    "timekeeping",
+    "console"
+  ],
+  "author": "Sergey Tsibuslkiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergets/chronometrist/issues"
+  },
+  "homepage": "https://github.com/sergets/chronometrist#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
